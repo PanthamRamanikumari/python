@@ -1,0 +1,12 @@
+mylist=[2,3,'hello',True]
+print(mylist[0])
+mylist.append('CSE');
+print(mylist)
+mylist.insert(1,'Aditya')
+print(mylist)
+mylist.remove('hello')
+print(mylist)
+mylist.pop()
+print(mylist)
+mylist.reverse()
+print(mylist)
